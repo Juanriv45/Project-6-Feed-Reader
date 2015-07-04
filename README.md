@@ -1,5 +1,6 @@
 In order to access this project, the user must go to the following URL http://juanriv45.github.io/Project-6-Feed-Reader/.
 
+Below are more specific details about the purpose and how this project came to be.
 
 
 # Project Overview
